@@ -26,6 +26,7 @@ allprojects {
             //内网
             url 'http://192.168.40.221:8082/nexus/content/groups/public/'
         }
+        maven { url 'https://jitpack.io' }
     }
 }
 
