@@ -1,0 +1,2 @@
+include ':app', ':base_player', ':h_decode', ':s_decode', ':smart_player'
+rootProject.name='KKSmartPlayer'

@@ -1,2 +1,3 @@
-# SmartPlayer
-it's player video
+# KKSmartPlayer
+
+KKSmartPlayer 底层播放器
